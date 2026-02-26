@@ -71,10 +71,5 @@ Aqui estão as interfaces que desenvolvi durante minha transição para o Front-
 </div>
 
 ---
+*Se quiser conversar sobre tecnologia ou projetos, abra uma Issue aqui no meu perfil ou me mencione usando @deboramartins-svg!*
 
-###  Contato
-Atualmente estou focada em transição de carreira e aprimoramento técnico. Se quiser conversar sobre tecnologia ou projetos, você pode me encontrar aqui no GitHub ou entrar em contato via e-mail:
-- **Email:** 
-
----
-*“A persistência é o caminho do êxito.”*
