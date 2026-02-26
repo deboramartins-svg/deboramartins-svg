@@ -56,11 +56,10 @@ Aqui estão as interfaces que desenvolvi durante minha transição para o Front-
 
 ---
 
-###  Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboramartins-svg&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&langs_count=7&theme=dark" />
-</p>
+###  Minhas Estatísticas
+
+![Estatísticas de Débora](https://github-readme-stats.vercel.app/api?username=deboramartins-svg&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&theme=dark)
 
 ---
 
