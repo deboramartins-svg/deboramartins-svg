@@ -9,16 +9,6 @@ ___
 -  Curiosidade: Acredito que o código limpo e a organização são os pilares de um bom produto.
 
 ---
-
-###  Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
 ##  Projetos em Destaque
 
 Aqui estão as interfaces que desenvolvi durante minha transição para o Front-End. Clique na imagem ou no título para visualizar o projeto ao vivo!
@@ -56,10 +46,29 @@ Aqui estão as interfaces que desenvolvi durante minha transição para o Front-
 
 ---
 
+###  Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 ###  Minhas Estatísticas
 
-![Estatísticas de Débora](https://github-readme-stats.vercel.app/api?username=deboramartins-svg&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-50%2B-brightgreen?style=for-the-badge&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Pull_Requests-10%2B-blue?style=for-the-badge&logo=github" alt="Pull Requests" />
+  <img src="https://img.shields.io/badge/Projetos_Ativos-4-orange?style=for-the-badge&logo=github" alt="Projetos" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
