@@ -19,6 +19,42 @@ ___
 </p>
 
 ---
+##  Projetos em Destaque
+
+Aqui estão as interfaces que desenvolvi durante minha transição para o Front-End. Clique na imagem ou no título para visualizar o projeto ao vivo!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://my-link-tree-sigma.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-linktree.png" width="300px;" alt="My Link Tree"/><br />
+        <sub><b> My Link Tree</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vortex-interface.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-vortex.png" width="300px;" alt="Vortex Interface"/><br />
+        <sub><b> Vortex Interface</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://perfect-nails-interface.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-nailsdesign.png" width="300px;" alt="Studio Nails Design"/><br />
+        <sub><b> Studio Nails Design</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://gym-141-fit-interface.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-141Fit.png" width="300px;" alt="141Fit-RedZone"/><br />
+        <sub><b> 141Fit-RedZone</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ###  Estatísticas do GitHub
 <p align="left">
