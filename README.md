@@ -1,12 +1,12 @@
 # Olá, eu sou a Débora Martins! 
 
-Atualmente atuando na área administrativa, estou em transição de carreira para o Desenvolvimento de Sistemas com foco em Front-End. Sou apaixonada por transformar ideias em interfaces funcionais e elegantes. Meu foco atual é dominar as bases da web para construir aplicações robustas e escaláveis
+Atualmente atuando na área administrativa, estou em transição de carreira para o Desenvolvimento de Sistemas. Sou apaixonada por transformar ideias em interfaces funcionais e elegantes. Meu foco atual é dominar as bases da web para construir aplicações robustas e escaláveis. 
 ___
 
 -  Atualmente estou trabalhando em projetos autorais de UI/UX.
 -  Aprendendo profundamente **HTML5, CSS3 (Flexbox/Grid)** e lógica de programação.
--  Objetivo: Me tornar uma desenvolvedora Full-Stack relevante no mercado de TI.
--  Curiosidade: Acredito que o código limpo e a organização são os pilares de um bom produto.
+-  Objetivo: Construir uma carreira no TI, desenvolvendo competências em Full Stack e automação, com foco em aprender cada vez mais, inovar e contribuir com soluções eficientes e de qualidade.
+-  Curiosidade: Estou com o projeto do meu portfólio em desenvolvimento, assim que finalizado, deixarei disponível aqui.
 
 ---
 ##  Projetos em Destaque
