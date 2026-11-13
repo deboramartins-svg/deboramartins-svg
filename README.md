@@ -1,79 +1,119 @@
-# Olá, eu sou a Débora Martins! 
+<div align="center">
 
-Atualmente atuando na área administrativa, estou em transição de carreira para o Desenvolvimento de Sistemas. Sou apaixonada por transformar ideias em interfaces funcionais e elegantes. Meu foco atual é dominar as bases da web para construir aplicações robustas e escaláveis. 
-___
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:C084FC&height=240&section=header&text=Débora%20Martins&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20em%20construção%20%7C%20UI%2FUX&descSize=18&descAlignY=60" width="100%" alt="Cabeçalho" />
 
--  Atualmente estou trabalhando em projetos autorais de UI/UX.
--  Aprendendo profundamente **HTML5, CSS3 (Flexbox/Grid)** e lógica de programação.
--  Objetivo: Construir uma carreira no TI, desenvolvendo competências em Full Stack e automação, com foco em aprender cada vez mais, inovar e contribuir com soluções eficientes e de qualidade.
--  Curiosidade: Estou com o projeto do meu portfólio em desenvolvimento, assim que finalizado, deixarei disponível aqui.
 
----
-##  Projetos em Destaque
+<a href="https://portfolio-debora-martins.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20ACESSAR%20MEU%20PORTF%C3%93LIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Acessar portfólio" />
+</a>
 
-Aqui estão as interfaces que desenvolvi durante minha transição para o Front-End. Clique na imagem ou no título para visualizar o projeto ao vivo!
+<br/><br/>
 
-<table>
+<img src="https://komarev.com/ghpvc/?username=deboramartins-svg&label=Visitas&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="Contador de visitas" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2" width="100%" alt="" />
+
+## `> whoami`
+
+```js
+const debora = {
+  nome: "Débora Martins",
+  origem: "Área administrativa",
+  missao: "Transição para Desenvolvimento de Sistemas",
+  foco: ["Front-End", "UI/UX"],
+  estudando: ["HTML5", "CSS3 (Flexbox/Grid)", "JavaScript", "Lógica de programação"],
+  proximaParada: "Full Stack + Automação",
+  lema: "Aprender sempre, inovar e entregar qualidade 💜"
+};
+```
+
+> 💡 Levo para o código a organização, a atenção aos detalhes e a visão de processos que construí na rotina administrativa.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2" width="100%" alt="" />
+
+
+## 🚀 `> projetos --destaque`
+
+<p align="center">Interfaces criadas na minha transição para o Front-End. Clique para ver ao vivo!</p>
+
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://my-link-tree-sigma.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-linktree.png" width="300px;" alt="My Link Tree"/><br />
-        <sub><b> My Link Tree</b></sub>
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-linktree.png" width="320px" alt="My Link Tree"/><br />
+        <b>🔗 My Link Tree</b><br/>
+        <sub>Ver projeto →</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://vortex-interface.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-vortex.png" width="300px;" alt="Vortex Interface"/><br />
-        <sub><b> Vortex Interface</b></sub>
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-vortex.png" width="320px" alt="Vortex Interface"/><br />
+        <b>🌀 Vortex Interface</b><br/>
+        <sub>Ver projeto →</sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://perfect-nails-interface.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-nailsdesign.png" width="300px;" alt="Studio Nails Design"/><br />
-        <sub><b> Studio Nails Design</b></sub>
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-nailsdesign.png" width="320px" alt="Studio Nails Design"/><br />
+        <b>💅 Studio Nails Design</b><br/>
+        <sub>Ver projeto →</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://gym-141-fit-interface.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-141Fit.png" width="300px;" alt="141Fit-RedZone"/><br />
-        <sub><b> 141Fit-RedZone</b></sub>
+        <img src="https://raw.githubusercontent.com/deboramartins-svg/deboramartins-svg/main/Assets/thumb-141Fit.png" width="320px" alt="141Fit-RedZone"/><br />
+        <b>🏋️ 141Fit-RedZone</b><br/>
+        <sub>Ver projeto →</sub>
       </a>
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2" width="100%" alt="" />
 
-###  Tecnologias e Ferramentas
+## 🛠️ `> stack --list`
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel&theme=dark" alt="Tecnologias" />
 </a>
 
----
+<br/><br/>
 
-###  Minhas Estatísticas
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2" width="100%" alt="" />
+
+## 📊 `> stats --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Linguagens mais usadas" />
+<img height="170" src="https://streak-stats.demolab.com?user=deboramartins-svg&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deboramartins-svg&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deboramartins-svg&bg_color=0D1117&color=C084FC&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=A855F7" width="95%" alt="Gráfico de atividade" />
+
 </div>
 
----
-*Se quiser conversar sobre tecnologia ou projetos, abra uma Issue aqui no meu perfil ou me mencione usando @deboramartins-svg!*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2" width="100%" alt="" />
 
+## 🤝 `> contato --abrir`
+
+<div align="center">
+
+Quer trocar ideias sobre tecnologia, projetos ou oportunidades?
+Abra uma **Issue** aqui no meu perfil ou me mencione com **@deboramartins-svg** 💜
