@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:C084FC&height=240&section=header&text=Débora%20Martins&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20em%20construção%20%7C%20UI%2FUX&descSize=18&descAlignY=60" width="100%" alt="Cabeçalho" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:C084FC&height=240&section=header&text=Débora%20Martins&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20%7C%20UI%2FUX&descSize=18&descAlignY=60" width="100%" alt="Cabeçalho" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=650&lines=Transformando+ideias+em+interfaces+digitais.;Construindo+experi%C3%AAncias+com+HTML%2C+CSS+e+JavaScript.;Criatividade+%2B+Tecnologia+%2B+Evolu%C3%A7%C3%A3o." alt="Typing SVG" />
+
+<br/>
 
 <a href="https://portfolio-debora-martins.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20ACESSAR%20MEU%20PORTF%C3%93LIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Acessar portfólio" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=deboramartins-svg&label=Visitas&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="Contador de visitas" />
 
